@@ -4,4 +4,4 @@
 ![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 30 09](https://github.com/esedagunduz/JPApexPredators/assets/120177771/c118784f-4584-4f8f-8e26-843e999c1c95)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 35 21](https://github.com/esedagunduz/JPApexPredators/assets/120177771/f0fb4bc2-d6dc-49f3-8a2c-d96618b11022)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 36 13](https://github.com/esedagunduz/JPApexPredators/assets/120177771/c8239e3f-a1b3-4f7c-ab93-02b8e4214563)
-![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20.40.53.png…]()
+![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 40 53](https://github.com/esedagunduz/JPApexPredators/assets/120177771/faf3351e-229f-43c5-85a5-f4218ff7c916)
