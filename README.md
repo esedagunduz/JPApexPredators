@@ -1,7 +1,9 @@
+<img width="448" alt="Ekran Resmi 2024-05-14 15 15 47" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/e9da20aa-e4c9-49de-9139-ed2695d7c915">
+<img width="377" alt="Ekran Resmi 2024-05-14 15 16 22" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/ca29b031-d6f9-439c-81de-9e18fb458274">
+<img width="374" alt="Ekran Resmi 2024-05-14 15 16 56" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/cdf4a413-84d2-43f5-95ff-1bffbfe6ab92">
+<img width="394" alt="Ekran Resmi 2024-05-14 15 17 26" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/43ba6cd8-ea5b-452d-a91a-98394e6e0f16">
+<img width="361" alt="Ekran Resmi 2024-05-14 15 17 44" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/3daf21ac-065e-4257-8b68-8ac429586773">
+<img width="365" alt="Ekran Resmi 2024-05-14 15 19 43" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/8d831493-8100-4fad-866c-f324d0c8ddf2">
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 23 15](https://github.com/esedagunduz/JPApexPredators/assets/120177771/ce0900e3-1c45-44f3-ba7a-23f8d82dc90d)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 23 39](https://github.com/esedagunduz/JPApexPredators/assets/120177771/5e1c819b-6d45-41fe-9795-c42a2bca28b3)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 30 09](https://github.com/esedagunduz/JPApexPredators/assets/120177771/c118784f-4584-4f8f-8e26-843e999c1c95)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 35 21](https://github.com/esedagunduz/JPApexPredators/assets/120177771/f0fb4bc2-d6dc-49f3-8a2c-d96618b11022)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 36 13](https://github.com/esedagunduz/JPApexPredators/assets/120177771/c8239e3f-a1b3-4f7c-ab93-02b8e4214563)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-11 at 20 40 53](https://github.com/esedagunduz/JPApexPredators/assets/120177771/faf3351e-229f-43c5-85a5-f4218ff7c916)
+<img width="355" alt="Ekran Resmi 2024-05-14 15 18 12" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/8d2455b6-a88a-41c4-960c-cbaad007be09">
+
