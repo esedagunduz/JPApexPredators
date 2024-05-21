@@ -1,4 +1,3 @@
-[JP Apex Predators IOS App](url)
 
 -Developed a mobile app extracts Jurassic Park dinosaur info from a JSON file.
 
@@ -7,6 +6,7 @@
 -Used MapKit for interactive real-world dinosaur locations display.
 
 -Added sticker pack with IMessage Stickers.
+
 <img width="448" alt="Ekran Resmi 2024-05-14 15 15 47" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/e9da20aa-e4c9-49de-9139-ed2695d7c915">
 <img width="377" alt="Ekran Resmi 2024-05-14 15 16 22" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/ca29b031-d6f9-439c-81de-9e18fb458274">
 <img width="374" alt="Ekran Resmi 2024-05-14 15 16 56" src="https://github.com/esedagunduz/JPApexPredators/assets/120177771/cdf4a413-84d2-43f5-95ff-1bffbfe6ab92">
